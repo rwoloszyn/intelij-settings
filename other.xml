@@ -1,0 +1,20 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df98df9bdf9fdf9cdfc9df9adf9fdf9bdf9bdf9bdfc8df9cdfcedfccdf9cdfccdfcbdf93df92df99df92dfc8dfcbdf9adfcfdf9fdf93dfcfdfcbdfcbdfc8df9adf9fdfcedfc9dfcedfcfdf98df92df9b</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="rwoloszyn" />
+      <option name="repoName" value="FastQuotationPlugin" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
