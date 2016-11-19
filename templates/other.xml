@@ -1,0 +1,9 @@
+<templateSet group="other">
+  <template name="sing" value="private static $CLASS_NAME$ sInstance;&#10;&#10;public static $CLASS_NAME$ getInstance() {&#10;    if (sInstance == null) {&#10;        sInstance = new $CLASS_NAME$();&#10;    }&#10;    return sInstance;&#10;}&#10;&#10;private $CLASS_NAME$() {}&#10;" description="Create singleton and getInstance initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
