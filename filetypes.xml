@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="SearchAccidentScheduled" type="CLASS" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="less" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
